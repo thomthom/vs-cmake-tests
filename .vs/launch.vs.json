@@ -7,6 +7,18 @@
       "project": "CMakeLists.txt",
       "projectTarget": "example_app.exe",
       "name": "example_app.exe"
+    },
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "CMakeLists.txt",
+      "projectTarget": "example_lib.dll (bar\\example_lib.dll)",
+      "name": "example_lib.dll (bar\\example_lib.dll)"
+    },
+    {
+      "type": "default",
+      "project": "C:\\Windows\\notepad.exe",
+      "name": "Debug Notepad"
     }
   ]
 }
